@@ -5,7 +5,6 @@
 </sup><br/><br/>
 
 
-
 # Solidity Metrics for 'CLI'
 
 ## Table of contents
